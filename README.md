@@ -34,6 +34,12 @@ git clone https://github.com/yourusername/simple-file-sharing.git
 cd simple-file-sharing
 ```
 
+Install dependencies:
+
+```bash
+pip3 install -r requirements.txt
+```
+
 Run the script:
 
 ```bash
@@ -77,5 +83,5 @@ Make sure both machines are on the same local network and can reach each otherâ€
 Firewalls may need to be configured to allow traffic on port 5000.
 
 License
-
+```
 This project is open-source and free to use.
