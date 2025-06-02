@@ -3,7 +3,7 @@ Simple File Sharing App is a Python GUI tool that lets you send and receive file
 
 A lightweight Python GUI application to send and receive files over a local network using sockets. Built with Tkinter for easy use.
 
-🛡️ Features
+# 🛡️ Features
 
 Automatically detects and displays your local IP address
 
@@ -17,7 +17,7 @@ User-friendly GUI with progress notifications
 
 Runs on Windows, Linux, and macOS (Python required)
 
-🛠 Requirements
+# 🛠 Requirements
 
 Python 3.x
 
@@ -25,7 +25,7 @@ Tkinter (usually included with Python)
 
 No external libraries required
 
-📦 Installation & Usage
+# 📦 Installation & Usage
 
 Clone the repository:
 
@@ -46,7 +46,7 @@ Run the script:
 python3 file_sharing.py
 ```
 
-Usage
+# Usage
 
 On the receiver’s machine:
 
@@ -60,13 +60,13 @@ Enter the receiver’s IP address in the input box.
 
 Click "Send File" and select the file you want to send.
 
-File transfer:
+# File transfer:
 
 The receiver will be prompted to choose where to save the file.
 
 After the transfer completes, you will see a success or error notification.
 
-How it works
+# How it works
 
 Uses TCP sockets on port 5000 for file transfer.
 
@@ -76,12 +76,12 @@ Transfers file data in chunks to handle large files efficiently.
 
 Runs the receiver in a separate thread to keep the GUI responsive.
 
-Notes
+# Notes
 
 Make sure both machines are on the same local network and can reach each other’s IP on port 5000.
 
 Firewalls may need to be configured to allow traffic on port 5000.
 
-License
+# License
 ```
 This project is open-source and free to use.
