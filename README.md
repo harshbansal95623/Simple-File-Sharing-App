@@ -1,7 +1,7 @@
 # 📤 Simple-File-Sharing-App
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![License](https://img.shields.io/github/license/yourusername/simple-file-sharing)
+![License](https://img.shields.io/github/license/harshbansal95623/simple-file-sharing)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-green)
 ![Socket](https://img.shields.io/badge/Network-TCP%20Socket-orange)
 ![GUI](https://img.shields.io/badge/GUI-Tkinter-yellow)
